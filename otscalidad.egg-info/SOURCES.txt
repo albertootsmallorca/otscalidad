@@ -1,0 +1,8 @@
+setup.py
+otscalidad/__init__.py
+otscalidad/calidad.py
+otscalidad/funciones_calidad.py
+otscalidad.egg-info/PKG-INFO
+otscalidad.egg-info/SOURCES.txt
+otscalidad.egg-info/dependency_links.txt
+otscalidad.egg-info/top_level.txt
